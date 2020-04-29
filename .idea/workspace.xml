@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28dab9b3-a8ed-44a3-bdad-442c2408e346" name="Default Changelist" comment="" />
+    <list default="true" id="28dab9b3-a8ed-44a3-bdad-442c2408e346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slack/classes/Namespace.js" beforeDir="false" afterPath="$PROJECT_DIR$/slack/classes/Namespace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slack/public/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/slack/public/chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slack/public/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/slack/public/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slack/slack.js" beforeDir="false" afterPath="$PROJECT_DIR$/slack/slack.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bANkyG9gCc4lYurRqdFesNA7Wc" />
   <component name="ProjectViewState">
@@ -15,8 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
@@ -52,6 +63,7 @@
       <workItem from="1588071086114" duration="1401000" />
       <workItem from="1588072738086" duration="6416000" />
       <workItem from="1588152308065" duration="264000" />
+      <workItem from="1588153186699" duration="7536000" />
     </task>
     <servers />
   </component>
@@ -63,6 +75,22 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1931" y="337" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1920.1057/0.23.1440.822@1440.23.1920.1057" timestamp="1588073076351" />
+    <state width="1516" height="242" key="GridCell.Tab.0.bottom" timestamp="1588153569086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588153569086" />
+    <state width="1516" height="242" key="GridCell.Tab.0.center" timestamp="1588153569086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="242" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588153569086" />
+    <state width="1516" height="242" key="GridCell.Tab.0.left" timestamp="1588153569086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="242" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588153569086" />
+    <state width="1516" height="242" key="GridCell.Tab.0.right" timestamp="1588153569086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="242" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588153569086" />
     <state x="177" y="106" key="SettingsEditor" timestamp="1588152547962">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
